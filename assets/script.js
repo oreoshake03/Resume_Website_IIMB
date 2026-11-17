@@ -1,4 +1,3 @@
-// Accessible responsive navigation, with no external dependencies.
 const toggle = document.querySelector('.menu-button');
 const nav = document.querySelector('#site-navigation');
 const year = document.querySelector('#year');
