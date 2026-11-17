@@ -9,7 +9,7 @@
 }
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:98px}
-body{margin:0;background:var(--paper);color:var(--ink);font:400 14px/1.75 var(--sans);-webkit-font-smoothing:antialiased}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 16px/1.75 var(--sans);-webkit-font-smoothing:antialiased}
 a{color:inherit;text-decoration:none}
 a:focus-visible,button:focus-visible{outline:3px solid #4c91ab;outline-offset:4px}
 button{font:inherit}
